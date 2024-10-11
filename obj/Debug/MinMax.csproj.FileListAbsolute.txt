@@ -1,0 +1,7 @@
+C:\Users\barnari\gitwork\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\barnari\gitwork\MinMax\bin\Debug\MinMax.exe
+C:\Users\barnari\gitwork\MinMax\bin\Debug\MinMax.pdb
+C:\Users\barnari\gitwork\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
+C:\Users\barnari\gitwork\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\barnari\gitwork\MinMax\obj\Debug\MinMax.exe
+C:\Users\barnari\gitwork\MinMax\obj\Debug\MinMax.pdb
